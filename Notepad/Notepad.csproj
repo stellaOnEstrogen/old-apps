@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+ <!-- Project Configuration -->
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <AssemblyName>notepad</AssemblyName>
+    <RuntimeIdentifiers>win-x64;osx-x64;osx-arm64;linux-x64</RuntimeIdentifiers>
+  </PropertyGroup>
+    <!-- Reference to any Packages -->
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
+    <PackageReference Include="Terminal.Gui" Version="1.17.0" />
+  </ItemGroup>
+
+  <!-- Resources -->
+  <ItemGroup>
+    <EmbeddedResource Include="Resources/filetypes.json" />
+  </ItemGroup>
+
+</Project>

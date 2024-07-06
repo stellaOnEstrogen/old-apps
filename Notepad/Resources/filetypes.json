@@ -1,0 +1,272 @@
+{
+    "filetypes": [
+        {
+            "name": "JavaScript",
+            "extensions": [
+                ".js",
+                ".mjs",
+                ".cjs",
+                ".jsx"
+            ]
+        },
+        {
+            "name": "TypeScript",
+            "extensions": [
+                ".ts",
+                ".tsx"
+            ]
+        },
+        {
+            "name": "HTML",
+            "extensions": [
+                ".html",
+                ".htm"
+            ]
+        },
+        {
+            "name": "CSS",
+            "extensions": [
+                ".css"
+            ]
+        },
+        {
+            "name": "JSON",
+            "extensions": [
+                ".json"
+            ]
+        },
+        {
+            "name": "Python",
+            "extensions": [
+                ".py"
+            ]
+        },
+        {
+            "name": "Markdown",
+            "extensions": [
+                ".md"
+            ]
+        },
+        {
+            "name": "XML",
+            "extensions": [
+                ".xml"
+            ]
+        },
+        {
+            "name": "YAML",
+            "extensions": [
+                ".yaml",
+                ".yml"
+            ]
+        },
+        {
+            "name": "Dockerfile",
+            "extensions": [
+                "Dockerfile"
+            ]
+        },
+        {
+            "name": "Java",
+            "extensions": [
+                ".java"
+            ]
+        },
+        {
+            "name": "C",
+            "extensions": [
+                ".c",
+                ".h"
+            ]
+        },
+        {
+            "name": "C++",
+            "extensions": [
+                ".cpp",
+                ".hpp",
+                ".cc",
+                ".cxx",
+                ".hxx",
+                ".hh"
+            ]
+        },
+        {
+            "name": "C#",
+            "extensions": [
+                ".cs"
+            ]
+        },
+        {
+            "name": "Ruby",
+            "extensions": [
+                ".rb"
+            ]
+        },
+        {
+            "name": "PHP",
+            "extensions": [
+                ".php"
+            ]
+        },
+        {
+            "name": "Swift",
+            "extensions": [
+                ".swift"
+            ]
+        },
+        {
+            "name": "Objective-C",
+            "extensions": [
+                ".m",
+                ".mm"
+            ]
+        },
+        {
+            "name": "Shell Script",
+            "extensions": [
+                ".sh",
+                ".bash"
+            ]
+        },
+        {
+            "name": "Batch",
+            "extensions": [
+                ".bat",
+                ".cmd"
+            ]
+        },
+        {
+            "name": "Perl",
+            "extensions": [
+                ".pl",
+                ".pm"
+            ]
+        },
+        {
+            "name": "R",
+            "extensions": [
+                ".R",
+                ".r"
+            ]
+        },
+        {
+            "name": "MATLAB",
+            "extensions": [
+                ".m"
+            ]
+        },
+        {
+            "name": "Scala",
+            "extensions": [
+                ".scala"
+            ]
+        },
+        {
+            "name": "Kotlin",
+            "extensions": [
+                ".kt",
+                ".kts"
+            ]
+        },
+        {
+            "name": "Go",
+            "extensions": [
+                ".go"
+            ]
+        },
+        {
+            "name": "Rust",
+            "extensions": [
+                ".rs"
+            ]
+        },
+        {
+            "name": "Lua",
+            "extensions": [
+                ".lua"
+            ]
+        },
+        {
+            "name": "Haskell",
+            "extensions": [
+                ".hs"
+            ]
+        },
+        {
+            "name": "Elixir",
+            "extensions": [
+                ".ex",
+                ".exs"
+            ]
+        },
+        {
+            "name": "Erlang",
+            "extensions": [
+                ".erl"
+            ]
+        },
+        {
+            "name": "SQL",
+            "extensions": [
+                ".sql"
+            ]
+        },
+        {
+            "name": "GraphQL",
+            "extensions": [
+                ".graphql",
+                ".gql"
+            ]
+        },
+        {
+            "name": "TOML",
+            "extensions": [
+                ".toml"
+            ]
+        },
+        {
+            "name": "INI",
+            "extensions": [
+                ".ini"
+            ]
+        },
+        {
+            "name": "Makefile",
+            "extensions": [
+                "Makefile"
+            ]
+        },
+        {
+            "name": "CMake",
+            "extensions": [
+                "CMakeLists.txt",
+                ".cmake"
+            ]
+        },
+        {
+            "name": "LaTeX",
+            "extensions": [
+                ".tex",
+                ".bib"
+            ]
+        },
+        {
+            "name": "SVG",
+            "extensions": [
+                ".svg"
+            ]
+        },
+        {
+            "name": "RMarkdown",
+            "extensions": [
+                ".Rmd"
+            ]
+        },
+        {
+            "name": "Jupyter Notebook",
+            "extensions": [
+                ".ipynb"
+            ]
+        }
+    ]
+}
